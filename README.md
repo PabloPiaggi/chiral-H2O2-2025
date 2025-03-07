@@ -1,6 +1,5 @@
 # On the possibility of chiral symmetry breaking in liquid hydrogen peroxide
 ### Authors: Roberto Menta, Pablo G. Debenedetti, Roberto Car, and Pablo M. Piaggi
-### arXiv preprint arXiv:2503.03385 (2025)
 
 [![arXiv](http://img.shields.io/badge/arXiv-2503.03385-B31B1B.svg)](https://arxiv.org/abs/2503.03385)
 

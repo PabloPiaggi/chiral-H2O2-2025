@@ -23,4 +23,4 @@ Jupyter notebooks require the following packages:
 * Scipy 1.7.3
 * Ase 3.23.0b1
 
-Please e-mail me if you have trouble reproducing the results.
+Please e-mail us if you have trouble reproducing the results.

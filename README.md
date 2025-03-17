@@ -6,10 +6,10 @@
 Analysis and input files to reproduce simulations of manuscript "On the possibility of chiral symmetry breaking in liquid hydrogen peroxide" by Menta, Debenedetti, Car, and Piaggi
 
 #### Description of folder contents:
-* ```DD-DL```:
-* ```Glass```: 
-* ```Multi-TP```: 
-* ```Quenches```: 
+* ```DD-DL```: Input files for the calculation of g(r) of homochiral and heterochiral interactions.
+* ```Glass```: Input and analysis files for the calculation of the glass transition temperature.
+* ```Multi-TP```: Input and analysis files for the study of the phase diagram.
+* ```Quenches```: Input and analysis files for quenches to assess spontaneous symmetry breaking.
 
 #### Software needed to reproduce the simulations: 
 

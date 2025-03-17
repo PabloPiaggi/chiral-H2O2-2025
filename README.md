@@ -2,6 +2,7 @@
 ### Authors: Roberto Menta, Pablo G. Debenedetti, Roberto Car, and Pablo M. Piaggi
 
 [![arXiv](http://img.shields.io/badge/arXiv-2503.03385-B31B1B.svg)](https://arxiv.org/abs/2503.03385)
+[![DOI](https://zenodo.org/badge/944466139.svg)](https://doi.org/10.5281/zenodo.15039101)
 
 Analysis and input files to reproduce simulations of manuscript "On the possibility of chiral symmetry breaking in liquid hydrogen peroxide" by Menta, Debenedetti, Car, and Piaggi
 
